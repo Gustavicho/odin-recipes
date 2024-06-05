@@ -24,7 +24,7 @@
 }
 
 section {
-    width: fit-content;
+    width: 60vw;
     padding: 1.5em;
     margin: 0 auto;
 }
@@ -69,4 +69,12 @@ h1, h2, h3 {
 h1 {font-size: var(--fs-h1);}
 h2 {font-size: var(--fs-h2);}
 h3 {font-size: var(--fs-h3);}
+
+.title {text-align: center;}
+/* index page */
+
+
+.index {
+    margin-top: 15vh;
+}
 
